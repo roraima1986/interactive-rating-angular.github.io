@@ -1,4 +1,6 @@
-# 01InteractiveRatingAngular
+# Interactive Rating Angular
+
+![](./src/assets/design/interactive-rating-component-design.jpg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
 

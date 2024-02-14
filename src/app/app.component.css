@@ -1,0 +1,21 @@
+.main {
+  min-height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.container {
+  background-color: var(--dark);
+  width: 40rem;
+  padding: 3rem;
+  border-radius: 2rem;
+}
+
+/* Mobile Screen */
+@media (max-width: 456px) {
+  .container {
+    width: 90%;
+  }
+}
